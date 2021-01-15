@@ -7,5 +7,3 @@
 4. Set database connection in your configuration file. It is .env in root directory.
 5. Use in command line:
 "php artisan migrate" (this command create tables in database for work)
-
-### Configuration
